@@ -1,0 +1,14 @@
+sphere(0,0,20/4/0x123456)
+sphere(7,-4,20/4/0xaa0007)
+sphere(-8,7,25/3/0x996633)
+sphere(4,-3,15/1/0x49a015)
+sphere(-12,-4,35/8/0xaaaa00)
+sphere(10,10,55/6/0x666666)
+sphere(42,42,42/9/0xff99cc)
+
+light(50,-15,-20/80)
+
+cam(0,0,-2/0,0,1)
+
+ambiant=22
+diffuse=120

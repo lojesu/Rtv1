@@ -1,0 +1,7 @@
+cylinder(0,0,20/0,1,0/4/0x660000)
+
+light(-5,2,0/100)
+
+diffuse=70
+specular=40
+ambiant=20

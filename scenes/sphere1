@@ -1,0 +1,6 @@
+sphere(0,0,10/3/0x560056)
+light(8,8,-5/60)
+
+ambiant=10
+diffuse=120
+specular=75
