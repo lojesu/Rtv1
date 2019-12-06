@@ -1,4 +1,5 @@
 # Rtv1
+![#https://github.com/lojesu/Rtv1/blob/master/screenshot/sphere1](https://github.com/lojesu/Rtv1/blob/master/screenshot/sphere1)
 # Introduction
 Rtv1 is a school project who asks notions of mathemathics in space. the goal is to create a scene in three dimension with basics mathematical forms(spheres, planes, cones and cylinder) and a light set.
 # Get started
@@ -37,7 +38,8 @@ this is a pourcentage numbers for include this information and you must be have 
 - if you don't put a light and ambiant light is equal to zero you don't see the scene
 
 ## screenshot
-
+![https://github.com/lojesu/Rtv1/blob/master/screenshot/scene1](https://github.com/lojesu/Rtv1/blob/master/screenshot/scene1)
+![#https://github.com/lojesu/Rtv1/blob/master/screenshot/sphere2](https://github.com/lojesu/Rtv1/blob/master/screenshot/sphere2)
 
 ## Contributors
 - lojesu
